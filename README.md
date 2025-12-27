@@ -1,13 +1,6 @@
 
 # 👋 Merhaba, Ben Mehmet Berke Arslan!
 
-### 📊 GitHub İstatistiklerim
-
-![Mehmet Berke Arslan GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkearslanl&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkearslanl&layout=compact&theme=tokyonight)
-
-
 ## 🎓 Eğitim & Odak Alanı
 
 * **Akdeniz Üniversitesi – Yönetim Bilişim Sistemleri** (GNO: 2.97)
